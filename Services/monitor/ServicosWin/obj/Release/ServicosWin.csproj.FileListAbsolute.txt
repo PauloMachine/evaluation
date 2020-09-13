@@ -1,0 +1,17 @@
+C:\Users\Programador\Downloads\Tratando_Servicos\ServicosWin\bin\Release\ServicosWin.dll
+C:\Users\Programador\Downloads\Tratando_Servicos\ServicosWin\bin\Release\ServicosWin.pdb
+C:\Users\Programador\Downloads\Tratando_Servicos\ServicosWin\obj\Release\ServicosWin.csprojAssemblyReference.cache
+C:\Users\Programador\Downloads\Tratando_Servicos\ServicosWin\obj\Release\ServicosWin.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Downloads\Tratando_Servicos\ServicosWin\obj\Release\ServicosWin.dll
+C:\Users\Programador\Downloads\Tratando_Servicos\ServicosWin\obj\Release\ServicosWin.pdb
+C:\Users\Programador\Downloads\MonitorPortalBusinessIntelligence\ServicosWin\bin\Release\ServicosWin.dll
+C:\Users\Programador\Downloads\MonitorPortalBusinessIntelligence\ServicosWin\bin\Release\ServicosWin.pdb
+C:\Users\Programador\Downloads\MonitorPortalBusinessIntelligence\ServicosWin\obj\Release\ServicosWin.csprojAssemblyReference.cache
+C:\Users\Programador\Downloads\MonitorPortalBusinessIntelligence\ServicosWin\obj\Release\ServicosWin.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Downloads\MonitorPortalBusinessIntelligence\ServicosWin\obj\Release\ServicosWin.dll
+C:\Users\Programador\Downloads\MonitorPortalBusinessIntelligence\ServicosWin\obj\Release\ServicosWin.pdb
+C:\PRECISA\git\portal-bi-monitor\ServicosWin\bin\Release\ServicosWin.dll
+C:\PRECISA\git\portal-bi-monitor\ServicosWin\bin\Release\ServicosWin.pdb
+C:\PRECISA\git\portal-bi-monitor\ServicosWin\obj\Release\ServicosWin.csproj.CoreCompileInputs.cache
+C:\PRECISA\git\portal-bi-monitor\ServicosWin\obj\Release\ServicosWin.dll
+C:\PRECISA\git\portal-bi-monitor\ServicosWin\obj\Release\ServicosWin.pdb
